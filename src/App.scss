@@ -1,0 +1,40 @@
+#Presentation {}
+
+#GridAssembler {
+  .row {
+    display: flex;
+    gap: 15px;
+
+    .col {
+      flex: 1;
+
+      .title {
+        text-align: center;
+      }
+
+      .cardDisciplina {
+        .containerClasses {
+          display: flex;
+          gap: 5px;
+          flex-direction: column;
+
+          .class {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
+            padding: 5px;
+
+            &.conflict {
+              background-color: rgba(255, 0, 0, 0.111);
+            }
+            
+            &.selected {
+              background-color: rgba(0, 128, 0, 0.111);
+            }
+          }
+        }
+      }
+    }
+  }
+}

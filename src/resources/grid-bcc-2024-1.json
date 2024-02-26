@@ -1,0 +1,3114 @@
+{
+  "curso": "CIÊNC COMPUTAÇÃO",
+  "ultima_atualizacao": "14/02/2024 13:01:03",
+  "disciplinas": [
+    {
+      "codigo": "OPT001",
+      "nome": "Administração De Redes De Computadores",
+      "creditos": 4,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "IC6A",
+          "enquadramento": "Presencial",
+          "vagas_total": 28,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Ciênc Computação"]],
+          "horarios": [
+            {
+              "horario": "3N4",
+              "sala": "E105"
+            },
+            {
+              "horario": "3N5",
+              "sala": "E105"
+            },
+            {
+              "horario": "5N2",
+              "sala": "E105"
+            },
+            {
+              "horario": "5N3",
+              "sala": "E105"
+            }
+          ],
+          "professores": ["Luiz Arthur Feitosa Dos Santos"],
+          "optativa_matrizes": ["Matriz:84"]
+        }
+      ]
+    },
+    {
+      "codigo": "NCM002",
+      "nome": "Álgebra Linear",
+      "creditos": 4,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "IC3A",
+          "enquadramento": "Presencial",
+          "vagas_total": 44,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Ciênc Computação"]],
+          "horarios": [
+            {
+              "horario": "3T4",
+              "sala": "D106"
+            },
+            {
+              "horario": "3T5",
+              "sala": "D106"
+            },
+            {
+              "horario": "5T4",
+              "sala": "D106"
+            },
+            {
+              "horario": "5T5",
+              "sala": "D106"
+            }
+          ],
+          "professores": ["Raquel Polizeli"],
+          "optativa_matrizes": []
+        },
+        {
+          "codigo": "ID2A",
+          "enquadramento": "Presencial",
+          "vagas_total": 44,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Eng Civil"]],
+          "horarios": [
+            {
+              "horario": "2M4",
+              "sala": "F105"
+            },
+            {
+              "horario": "2M5",
+              "sala": "F105"
+            },
+            {
+              "horario": "5M1",
+              "sala": "F101"
+            },
+            {
+              "horario": "5M2",
+              "sala": "F101"
+            }
+          ],
+          "professores": ["Raquel Polizeli"],
+          "optativa_matrizes": []
+        },
+        {
+          "codigo": "IF2A",
+          "enquadramento": "Presencial",
+          "vagas_total": 22,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Eng Amb/Sanitária"]],
+          "horarios": [
+            {
+              "horario": "4T1",
+              "sala": "D102"
+            },
+            {
+              "horario": "4T2",
+              "sala": "D102"
+            },
+            {
+              "horario": "6T4",
+              "sala": "D102"
+            },
+            {
+              "horario": "6T5",
+              "sala": "D102"
+            }
+          ],
+          "professores": ["Sara Coelho Da Silva"],
+          "optativa_matrizes": []
+        },
+        {
+          "codigo": "IG2A",
+          "enquadramento": "Presencial",
+          "vagas_total": 22,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Eng De Alimentos"]],
+          "horarios": [
+            {
+              "horario": "3T4",
+              "sala": "G101"
+            },
+            {
+              "horario": "3T5",
+              "sala": "G101"
+            },
+            {
+              "horario": "6T4",
+              "sala": "G102"
+            },
+            {
+              "horario": "6T5",
+              "sala": "G102"
+            }
+          ],
+          "professores": ["Erika Patricia Dantas De Oliveira Guazzi"],
+          "optativa_matrizes": []
+        },
+        {
+          "codigo": "IL2A",
+          "enquadramento": "Presencial",
+          "vagas_total": 44,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Eng Eletrônica"]],
+          "horarios": [
+            {
+              "horario": "2N2",
+              "sala": "B107"
+            },
+            {
+              "horario": "2N3",
+              "sala": "B107"
+            },
+            {
+              "horario": "5N4",
+              "sala": "B107"
+            },
+            {
+              "horario": "5N5",
+              "sala": "B107"
+            }
+          ],
+          "professores": ["Lilian Caroline Xavier Candido Schiavini"],
+          "optativa_matrizes": []
+        },
+        {
+          "codigo": "IQ2A",
+          "enquadramento": "Presencial",
+          "vagas_total": 22,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Engenharia Química"]],
+          "horarios": [
+            {
+              "horario": "3T4",
+              "sala": "G101"
+            },
+            {
+              "horario": "3T5",
+              "sala": "G101"
+            },
+            {
+              "horario": "6T4",
+              "sala": "G102"
+            },
+            {
+              "horario": "6T5",
+              "sala": "G102"
+            }
+          ],
+          "professores": ["Erika Patricia Dantas De Oliveira Guazzi"],
+          "optativa_matrizes": []
+        }
+      ]
+    },
+    {
+      "codigo": "BCC2001",
+      "nome": "Algoritmos",
+      "creditos": 4,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "IC2A",
+          "enquadramento": "Presencial",
+          "vagas_total": 24,
+          "vagas_calouros": 0,
+          "reserva": "Fechada",
+          "prioridade_cursos": [["Ciênc Computação"]],
+          "horarios": [
+            {
+              "horario": "2T4",
+              "sala": "D105"
+            },
+            {
+              "horario": "2T5",
+              "sala": "D105"
+            },
+            {
+              "horario": "4N2",
+              "sala": "E100"
+            },
+            {
+              "horario": "4N3",
+              "sala": "E100"
+            }
+          ],
+          "professores": ["Marcos Silvano Almeida"],
+          "optativa_matrizes": []
+        },
+        {
+          "codigo": "IC2B",
+          "enquadramento": "Presencial",
+          "vagas_total": 24,
+          "vagas_calouros": 0,
+          "reserva": "Fechada",
+          "prioridade_cursos": [["Ciênc Computação"]],
+          "horarios": [
+            {
+              "horario": "2T4",
+              "sala": "D105"
+            },
+            {
+              "horario": "2T5",
+              "sala": "D105"
+            },
+            {
+              "horario": "4N4",
+              "sala": "E100"
+            },
+            {
+              "horario": "4N5",
+              "sala": "E100"
+            }
+          ],
+          "professores": ["Marcos Silvano Almeida"],
+          "optativa_matrizes": []
+        }
+      ]
+    },
+    {
+      "codigo": "BCC3001",
+      "nome": "Algoritmos E Estruturas De Dados 1",
+      "creditos": 4,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "IC3A",
+          "enquadramento": "Presencial",
+          "vagas_total": 44,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Ciênc Computação"]],
+          "horarios": [
+            {
+              "horario": "4T4",
+              "sala": "D106"
+            },
+            {
+              "horario": "4T5",
+              "sala": "D106"
+            },
+            {
+              "horario": "6T4",
+              "sala": "E007"
+            },
+            {
+              "horario": "6T5",
+              "sala": "E007"
+            }
+          ],
+          "professores": ["Rafael Liberato Roberto"],
+          "optativa_matrizes": []
+        }
+      ]
+    },
+    {
+      "codigo": "BCC4001",
+      "nome": "Algoritmos E Estruturas De Dados 2",
+      "creditos": 4,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "IC4A",
+          "enquadramento": "Presencial",
+          "vagas_total": 44,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Ciênc Computação"]],
+          "horarios": [
+            {
+              "horario": "3N2",
+              "sala": "E003"
+            },
+            {
+              "horario": "3N3",
+              "sala": "E003"
+            },
+            {
+              "horario": "5N2",
+              "sala": "E003"
+            },
+            {
+              "horario": "5N3",
+              "sala": "E003"
+            }
+          ],
+          "professores": ["Juliano Henrique Foleis"],
+          "optativa_matrizes": []
+        }
+      ]
+    },
+    {
+      "codigo": "BCC6001",
+      "nome": "Algoritmos Em Grafos",
+      "creditos": 4,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "IC6A",
+          "enquadramento": "Presencial",
+          "vagas_total": 20,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Ciênc Computação"]],
+          "horarios": [
+            {
+              "horario": "3T4",
+              "sala": "E101"
+            },
+            {
+              "horario": "3T5",
+              "sala": "E101"
+            },
+            {
+              "horario": "5T2",
+              "sala": "D105"
+            },
+            {
+              "horario": "5T3",
+              "sala": "D105"
+            }
+          ],
+          "professores": ["Andre Luiz Satoshi Kawamoto"],
+          "optativa_matrizes": []
+        }
+      ]
+    },
+    {
+      "codigo": "BCC5001",
+      "nome": "Análise De Algoritmos",
+      "creditos": 4,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "IC5A",
+          "enquadramento": "Presencial",
+          "vagas_total": 44,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Ciênc Computação"]],
+          "horarios": [
+            {
+              "horario": "2T4",
+              "sala": "D107"
+            },
+            {
+              "horario": "2T5",
+              "sala": "D107"
+            },
+            {
+              "horario": "3T4",
+              "sala": "D107"
+            },
+            {
+              "horario": "3T5",
+              "sala": "D107"
+            }
+          ],
+          "professores": ["Juliano Henrique Foleis"],
+          "optativa_matrizes": []
+        }
+      ]
+    },
+    {
+      "codigo": "BCC2004",
+      "nome": "Análise E Projeto De Software",
+      "creditos": 4,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "IC2A",
+          "enquadramento": "Presencial",
+          "vagas_total": 44,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Ciênc Computação"]],
+          "horarios": [
+            {
+              "horario": "3T4",
+              "sala": "D105"
+            },
+            {
+              "horario": "3T5",
+              "sala": "D105"
+            },
+            {
+              "horario": "5T2",
+              "sala": "E105"
+            },
+            {
+              "horario": "5T3",
+              "sala": "E105"
+            }
+          ],
+          "professores": ["Lucio Geronimo Valentin"],
+          "optativa_matrizes": []
+        }
+      ]
+    },
+    {
+      "codigo": "BCC2003",
+      "nome": "Arquitetura E Organização De Computadores",
+      "creditos": 4,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "IC2A",
+          "enquadramento": "Presencial",
+          "vagas_total": 22,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Ciênc Computação"]],
+          "horarios": [
+            {
+              "horario": "4N4",
+              "sala": "E105"
+            },
+            {
+              "horario": "4N5",
+              "sala": "E105"
+            },
+            {
+              "horario": "6T2",
+              "sala": "E003"
+            },
+            {
+              "horario": "6T3",
+              "sala": "E003"
+            }
+          ],
+          "professores": ["Joao Fabricio Filho"],
+          "optativa_matrizes": []
+        },
+        {
+          "codigo": "IC2B",
+          "enquadramento": "Presencial",
+          "vagas_total": 22,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Ciênc Computação"]],
+          "horarios": [
+            {
+              "horario": "4N2",
+              "sala": "E105"
+            },
+            {
+              "horario": "4N3",
+              "sala": "E105"
+            },
+            {
+              "horario": "6T2",
+              "sala": "E003"
+            },
+            {
+              "horario": "6T3",
+              "sala": "E003"
+            }
+          ],
+          "professores": ["Joao Fabricio Filho"],
+          "optativa_matrizes": []
+        }
+      ]
+    },
+    {
+      "codigo": "BCC6002",
+      "nome": "Aspectos De Linguagens De Programação",
+      "creditos": 4,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "IC6A",
+          "enquadramento": "Presencial",
+          "vagas_total": 28,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Ciênc Computação"]],
+          "horarios": [
+            {
+              "horario": "2T4",
+              "sala": "E105"
+            },
+            {
+              "horario": "2T5",
+              "sala": "E105"
+            },
+            {
+              "horario": "6T4",
+              "sala": "D104"
+            },
+            {
+              "horario": "6T5",
+              "sala": "D104"
+            }
+          ],
+          "professores": ["Rodrigo Hubner"],
+          "optativa_matrizes": []
+        }
+      ]
+    },
+    {
+      "codigo": "BCC2002",
+      "nome": "Banco De Dados",
+      "creditos": 4,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "IC2A",
+          "enquadramento": "Presencial",
+          "vagas_total": 44,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Ciênc Computação"]],
+          "horarios": [
+            {
+              "horario": "2T2",
+              "sala": "D105"
+            },
+            {
+              "horario": "2T3",
+              "sala": "D105"
+            },
+            {
+              "horario": "5T4",
+              "sala": "E003"
+            },
+            {
+              "horario": "5T5",
+              "sala": "E003"
+            }
+          ],
+          "professores": ["Reginaldo Re"],
+          "optativa_matrizes": []
+        }
+      ]
+    },
+    {
+      "codigo": "OPT003",
+      "nome": "Bancos De Dados Avançados",
+      "creditos": 4,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "IC6A",
+          "enquadramento": "Presencial",
+          "vagas_total": 26,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Ciênc Computação"]],
+          "horarios": [
+            {
+              "horario": "3T2",
+              "sala": "E100"
+            },
+            {
+              "horario": "3T3",
+              "sala": "E100"
+            },
+            {
+              "horario": "5T4",
+              "sala": "D105"
+            },
+            {
+              "horario": "5T5",
+              "sala": "D105"
+            }
+          ],
+          "professores": ["Lucio Geronimo Valentin"],
+          "optativa_matrizes": ["Matriz:84"]
+        }
+      ]
+    },
+    {
+      "codigo": "NCM004",
+      "nome": "Cálculo Diferencial E Integral 1",
+      "creditos": 4,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "IC2A",
+          "enquadramento": "Presencial",
+          "vagas_total": 48,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Ciênc Computação"]],
+          "horarios": [
+            {
+              "horario": "3T2",
+              "sala": "D105"
+            },
+            {
+              "horario": "3T3",
+              "sala": "D105"
+            },
+            {
+              "horario": "6T4",
+              "sala": "D105"
+            },
+            {
+              "horario": "6T5",
+              "sala": "D105"
+            }
+          ],
+          "professores": ["Raquel Polizeli"],
+          "optativa_matrizes": []
+        },
+        {
+          "codigo": "ID2A",
+          "enquadramento": "Presencial",
+          "vagas_total": 48,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Eng Civil"]],
+          "horarios": [
+            {
+              "horario": "2M2",
+              "sala": "F101"
+            },
+            {
+              "horario": "2M3",
+              "sala": "F101"
+            },
+            {
+              "horario": "6M1",
+              "sala": "F101"
+            },
+            {
+              "horario": "6M2",
+              "sala": "F101"
+            }
+          ],
+          "professores": ["Angela Mognon"],
+          "optativa_matrizes": []
+        },
+        {
+          "codigo": "IF2A",
+          "enquadramento": "Presencial",
+          "vagas_total": 48,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Eng Amb/Sanitária"]],
+          "horarios": [
+            {
+              "horario": "2T1",
+              "sala": "D102"
+            },
+            {
+              "horario": "2T2",
+              "sala": "D102"
+            },
+            {
+              "horario": "4T5",
+              "sala": "D102"
+            },
+            {
+              "horario": "4T6",
+              "sala": "D102"
+            }
+          ],
+          "professores": ["Angela Mognon"],
+          "optativa_matrizes": []
+        },
+        {
+          "codigo": "IG2A",
+          "enquadramento": "Presencial",
+          "vagas_total": 24,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Eng De Alimentos"]],
+          "horarios": [
+            {
+              "horario": "2T3",
+              "sala": "G101"
+            },
+            {
+              "horario": "2T4",
+              "sala": "G101"
+            },
+            {
+              "horario": "4T2",
+              "sala": "G102"
+            },
+            {
+              "horario": "4T3",
+              "sala": "G102"
+            }
+          ],
+          "professores": ["Angela Mognon"],
+          "optativa_matrizes": []
+        },
+        {
+          "codigo": "IL2A",
+          "enquadramento": "Presencial",
+          "vagas_total": 44,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Eng Eletrônica"]],
+          "horarios": [
+            {
+              "horario": "2N4",
+              "sala": "B107"
+            },
+            {
+              "horario": "2N5",
+              "sala": "B107"
+            },
+            {
+              "horario": "5N2",
+              "sala": "B107"
+            },
+            {
+              "horario": "5N3",
+              "sala": "B107"
+            }
+          ],
+          "professores": ["Priscila Amara Patricio De Melo"],
+          "optativa_matrizes": []
+        },
+        {
+          "codigo": "IQ2A",
+          "enquadramento": "Presencial",
+          "vagas_total": 24,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Engenharia Química"]],
+          "horarios": [
+            {
+              "horario": "2T3",
+              "sala": "G101"
+            },
+            {
+              "horario": "2T4",
+              "sala": "G101"
+            },
+            {
+              "horario": "4T2",
+              "sala": "G102"
+            },
+            {
+              "horario": "4T3",
+              "sala": "G102"
+            }
+          ],
+          "professores": ["Angela Mognon"],
+          "optativa_matrizes": []
+        }
+      ]
+    },
+    {
+      "codigo": "CN3XB",
+      "nome": "Calculo Numerico",
+      "creditos": 4,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "ID4A",
+          "enquadramento": "Presencial",
+          "vagas_total": 44,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Eng Civil"]],
+          "horarios": [
+            {
+              "horario": "5M2",
+              "sala": "F109"
+            },
+            {
+              "horario": "5M3",
+              "sala": "F109"
+            },
+            {
+              "horario": "6M1",
+              "sala": "F105"
+            },
+            {
+              "horario": "6M2",
+              "sala": "F105"
+            }
+          ],
+          "professores": ["Wellington Jose Correa"],
+          "optativa_matrizes": []
+        }
+      ]
+    },
+    {
+      "codigo": "EA34D",
+      "nome": "Calculo Numerico",
+      "creditos": 4,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "IF4A",
+          "enquadramento": "Presencial",
+          "vagas_total": 44,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Eng Ambiental"]],
+          "horarios": [
+            {
+              "horario": "4M4",
+              "sala": "D103"
+            },
+            {
+              "horario": "4M5",
+              "sala": "D103"
+            },
+            {
+              "horario": "5T2",
+              "sala": "D103"
+            },
+            {
+              "horario": "5T3",
+              "sala": "D103"
+            }
+          ],
+          "professores": ["Viviane Colucci Boromelo"],
+          "optativa_matrizes": []
+        }
+      ]
+    },
+    {
+      "codigo": "CN3XA",
+      "nome": "Cálculo Numérico",
+      "creditos": 4,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "IL4A",
+          "enquadramento": "Presencial",
+          "vagas_total": 22,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Eng Eletrônica"]],
+          "horarios": [
+            {
+              "horario": "2T2",
+              "sala": "D108"
+            },
+            {
+              "horario": "2T3",
+              "sala": "D108"
+            },
+            {
+              "horario": "3M4",
+              "sala": "D106"
+            },
+            {
+              "horario": "3M5",
+              "sala": "D106"
+            }
+          ],
+          "professores": ["Viviane Colucci Boromelo"],
+          "optativa_matrizes": []
+        }
+      ]
+    },
+    {
+      "codigo": "NCM003",
+      "nome": "Cálculo Numérico ",
+      "creditos": 4,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "IG4A",
+          "enquadramento": "Presencial",
+          "vagas_total": 22,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Eng De Alimentos"]],
+          "horarios": [
+            {
+              "horario": "3T3",
+              "sala": "G103"
+            },
+            {
+              "horario": "3T4",
+              "sala": "G103"
+            },
+            {
+              "horario": "5T3",
+              "sala": "G009"
+            },
+            {
+              "horario": "5T4",
+              "sala": "G009"
+            }
+          ],
+          "professores": ["Wellington Jose Correa"],
+          "optativa_matrizes": ["Matriz:84"]
+        },
+        {
+          "codigo": "IQ4A",
+          "enquadramento": "Presencial",
+          "vagas_total": 22,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Engenharia Química"]],
+          "horarios": [
+            {
+              "horario": "3T3",
+              "sala": "G103"
+            },
+            {
+              "horario": "3T4",
+              "sala": "G103"
+            },
+            {
+              "horario": "5T3",
+              "sala": "D101"
+            },
+            {
+              "horario": "5T4",
+              "sala": "D101"
+            }
+          ],
+          "professores": ["Wellington Jose Correa"],
+          "optativa_matrizes": ["Matriz:84"]
+        }
+      ]
+    },
+    {
+      "codigo": "BCC5004",
+      "nome": "Cibersegurança",
+      "creditos": 4,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "IC5A",
+          "enquadramento": "Presencial",
+          "vagas_total": 28,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Ciênc Computação"]],
+          "horarios": [
+            {
+              "horario": "3T2",
+              "sala": "E105"
+            },
+            {
+              "horario": "3T3",
+              "sala": "E105"
+            },
+            {
+              "horario": "5T4",
+              "sala": "E105"
+            },
+            {
+              "horario": "5T5",
+              "sala": "E105"
+            }
+          ],
+          "professores": ["Luiz Arthur Feitosa Dos Santos"],
+          "optativa_matrizes": []
+        }
+      ]
+    },
+    {
+      "codigo": "BCC1003",
+      "nome": "Computação E Tecnologia",
+      "creditos": 4,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "IC1A",
+          "enquadramento": "Presencial",
+          "vagas_total": 45,
+          "vagas_calouros": 44,
+          "reserva": "Fechada",
+          "prioridade_cursos": [["Ciênc Computação"]],
+          "horarios": [
+            {
+              "horario": "2T4",
+              "sala": "E003"
+            },
+            {
+              "horario": "2T5",
+              "sala": "E003"
+            },
+            {
+              "horario": "3T4",
+              "sala": "E003"
+            },
+            {
+              "horario": "3T5",
+              "sala": "E003"
+            }
+          ],
+          "professores": ["Frank Helbert Borsato"],
+          "optativa_matrizes": []
+        }
+      ]
+    },
+    {
+      "codigo": "BCC4004",
+      "nome": "Computação Física",
+      "creditos": 4,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "IC4A",
+          "enquadramento": "Presencial",
+          "vagas_total": 20,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Ciênc Computação"]],
+          "horarios": [
+            {
+              "horario": "4T4",
+              "sala": "E003"
+            },
+            {
+              "horario": "4T5",
+              "sala": "E003"
+            },
+            {
+              "horario": "6T2",
+              "sala": "E104"
+            },
+            {
+              "horario": "6T3",
+              "sala": "E104"
+            }
+          ],
+          "professores": ["Frank Helbert Borsato"],
+          "optativa_matrizes": []
+        },
+        {
+          "codigo": "IC4B",
+          "enquadramento": "Presencial",
+          "vagas_total": 20,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Ciênc Computação"]],
+          "horarios": [
+            {
+              "horario": "4T4",
+              "sala": "E003"
+            },
+            {
+              "horario": "4T5",
+              "sala": "E003"
+            },
+            {
+              "horario": "6T4",
+              "sala": "E104"
+            },
+            {
+              "horario": "6T5",
+              "sala": "E104"
+            }
+          ],
+          "professores": ["Frank Helbert Borsato"],
+          "optativa_matrizes": []
+        }
+      ]
+    },
+    {
+      "codigo": "NCM001",
+      "nome": "Comunicação Linguística",
+      "creditos": 2,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "IC1A",
+          "enquadramento": "Presencial",
+          "vagas_total": 48,
+          "vagas_calouros": 44,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Ciênc Computação"]],
+          "horarios": [
+            {
+              "horario": "4T2",
+              "sala": "D107"
+            },
+            {
+              "horario": "4T3",
+              "sala": "D107"
+            }
+          ],
+          "professores": ["Alex Sandro De Medeiros"],
+          "optativa_matrizes": []
+        },
+        {
+          "codigo": "ID1A",
+          "enquadramento": "Presencial",
+          "vagas_total": 48,
+          "vagas_calouros": 44,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Eng Civil"]],
+          "horarios": [
+            {
+              "horario": "4T4",
+              "sala": "F101"
+            },
+            {
+              "horario": "4T5",
+              "sala": "F101"
+            }
+          ],
+          "professores": ["Alex Sandro De Medeiros"],
+          "optativa_matrizes": []
+        },
+        {
+          "codigo": "IF1A",
+          "enquadramento": "Presencial",
+          "vagas_total": 48,
+          "vagas_calouros": 44,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Eng Ambiental", "Eng Amb/Sanitária"]],
+          "horarios": [
+            {
+              "horario": "5M4",
+              "sala": "B106"
+            },
+            {
+              "horario": "5M5",
+              "sala": "B106"
+            }
+          ],
+          "professores": ["Sandra Elis Aleixo"],
+          "optativa_matrizes": []
+        },
+        {
+          "codigo": "NQ1A",
+          "enquadramento": "Presencial",
+          "vagas_total": 54,
+          "vagas_calouros": 44,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Lic Química"]],
+          "horarios": [
+            {
+              "horario": "2N4",
+              "sala": "G104"
+            },
+            {
+              "horario": "2N5",
+              "sala": "G104"
+            }
+          ],
+          "professores": ["Alex Sandro De Medeiros"],
+          "optativa_matrizes": []
+        }
+      ]
+    },
+    {
+      "codigo": "OPT010",
+      "nome": "Desenvolvimento De Jogos",
+      "creditos": 4,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "IC8A",
+          "enquadramento": "Presencial",
+          "vagas_total": 26,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Ciênc Computação"]],
+          "horarios": [
+            {
+              "horario": "2T2",
+              "sala": "E102"
+            },
+            {
+              "horario": "2T3",
+              "sala": "E102"
+            },
+            {
+              "horario": "4T4",
+              "sala": "E102"
+            },
+            {
+              "horario": "4T5",
+              "sala": "E102"
+            }
+          ],
+          "professores": ["Marcos Silvano Almeida"],
+          "optativa_matrizes": ["Matriz:84"]
+        }
+      ]
+    },
+    {
+      "codigo": "OPT120",
+      "nome": "Desenvolvimento Móvel",
+      "creditos": 4,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "IC7A",
+          "enquadramento": "Presencial",
+          "vagas_total": 26,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Ciênc Computação"]],
+          "horarios": [
+            {
+              "horario": "2N2",
+              "sala": "E102"
+            },
+            {
+              "horario": "2N3",
+              "sala": "E102"
+            },
+            {
+              "horario": "4N4",
+              "sala": "E102"
+            },
+            {
+              "horario": "4N5",
+              "sala": "E102"
+            }
+          ],
+          "professores": ["Ivanilton Polato"],
+          "optativa_matrizes": ["Matriz:84"]
+        }
+      ]
+    },
+    {
+      "codigo": "BCC1002",
+      "nome": "Elementos De Lógica Digital",
+      "creditos": 4,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "IC1A",
+          "enquadramento": "Presencial",
+          "vagas_total": 23,
+          "vagas_calouros": 22,
+          "reserva": "Fechada",
+          "prioridade_cursos": [["Ciênc Computação"]],
+          "horarios": [
+            {
+              "horario": "2T2",
+              "sala": "D107"
+            },
+            {
+              "horario": "2T3",
+              "sala": "D107"
+            },
+            {
+              "horario": "5T4",
+              "sala": "E102"
+            },
+            {
+              "horario": "5T5",
+              "sala": "E102"
+            }
+          ],
+          "professores": ["Paulo Henrique Sabo"],
+          "optativa_matrizes": []
+        },
+        {
+          "codigo": "IC1B",
+          "enquadramento": "Presencial",
+          "vagas_total": 23,
+          "vagas_calouros": 22,
+          "reserva": "Fechada",
+          "prioridade_cursos": [["Ciênc Computação"]],
+          "horarios": [
+            {
+              "horario": "2T2",
+              "sala": "D107"
+            },
+            {
+              "horario": "2T3",
+              "sala": "D107"
+            },
+            {
+              "horario": "5T2",
+              "sala": "E102"
+            },
+            {
+              "horario": "5T3",
+              "sala": "E102"
+            }
+          ],
+          "professores": ["Paulo Henrique Sabo"],
+          "optativa_matrizes": []
+        }
+      ]
+    },
+    {
+      "codigo": "LT39C",
+      "nome": "Empreendedorismo",
+      "creditos": 2,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "IL9A",
+          "enquadramento": "Presencial",
+          "vagas_total": 10,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Eng Eletrônica"]],
+          "horarios": [
+            {
+              "horario": "4T2",
+              "sala": "B107"
+            },
+            {
+              "horario": "4T3",
+              "sala": "B107"
+            }
+          ],
+          "professores": ["Marcelo Guelbert"],
+          "optativa_matrizes": ["Matriz:43"]
+        }
+      ]
+    },
+    {
+      "codigo": "NCM018",
+      "nome": "Empreendedorismo",
+      "creditos": 2,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "IC4A",
+          "enquadramento": "Presencial",
+          "vagas_total": 34,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Ciênc Computação"]],
+          "horarios": [
+            {
+              "horario": "4T2",
+              "sala": "D104"
+            },
+            {
+              "horario": "4T3",
+              "sala": "D104"
+            }
+          ],
+          "professores": ["Marcelo Guelbert"],
+          "optativa_matrizes": []
+        }
+      ]
+    },
+    {
+      "codigo": "BCC3004",
+      "nome": "Engenharia De Software",
+      "creditos": 4,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "ICE",
+          "enquadramento": "Presencial",
+          "vagas_total": 44,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Ciênc Computação"]],
+          "horarios": [
+            {
+              "horario": "3T4",
+              "sala": "D108"
+            },
+            {
+              "horario": "3T5",
+              "sala": "D108"
+            },
+            {
+              "horario": "5T2",
+              "sala": "D106"
+            },
+            {
+              "horario": "5T3",
+              "sala": "D106"
+            }
+          ],
+          "professores": ["Igor Scaliante Wiese"],
+          "optativa_matrizes": []
+        },
+        {
+          "codigo": "IC3A",
+          "enquadramento": "Presencial",
+          "vagas_total": 20,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Ciênc Computação"]],
+          "horarios": [
+            {
+              "horario": "2N2",
+              "sala": "E101"
+            },
+            {
+              "horario": "2N3",
+              "sala": "E101"
+            },
+            {
+              "horario": "4N4",
+              "sala": "E101"
+            },
+            {
+              "horario": "4N5",
+              "sala": "E101"
+            }
+          ],
+          "professores": ["Igor Scaliante Wiese"],
+          "optativa_matrizes": []
+        }
+      ]
+    },
+    {
+      "codigo": "BCC1004",
+      "nome": "Ética Em Computação",
+      "creditos": 2,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "IC1A",
+          "enquadramento": "Presencial",
+          "vagas_total": 45,
+          "vagas_calouros": 44,
+          "reserva": "Fechada",
+          "prioridade_cursos": [["Ciênc Computação"]],
+          "horarios": [
+            {
+              "horario": "3T2",
+              "sala": "D107"
+            },
+            {
+              "horario": "3T3",
+              "sala": "D107"
+            }
+          ],
+          "professores": ["Narci Nogueira Da Silva"],
+          "optativa_matrizes": []
+        }
+      ]
+    },
+    {
+      "codigo": "EA39A",
+      "nome": "Ética, Profissão E Cidadania",
+      "creditos": 2,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "IF9A",
+          "enquadramento": "Presencial",
+          "vagas_total": 44,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Eng Ambiental"]],
+          "horarios": [
+            {
+              "horario": "2M2",
+              "sala": "F110"
+            },
+            {
+              "horario": "2M3",
+              "sala": "F110"
+            }
+          ],
+          "professores": ["Maria Cristina Rodrigues Halmeman"],
+          "optativa_matrizes": []
+        }
+      ]
+    },
+    {
+      "codigo": "EP3XA",
+      "nome": "Ética, Profissão E Cidadania",
+      "creditos": 2,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "ID9A",
+          "enquadramento": "Presencial",
+          "vagas_total": 44,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Eng Civil"]],
+          "horarios": [
+            {
+              "horario": "3T2",
+              "sala": "H105"
+            },
+            {
+              "horario": "3T3",
+              "sala": "H105"
+            }
+          ],
+          "professores": ["Valdomiro Lubachevski Kurta"],
+          "optativa_matrizes": ["Matriz:75", "Matriz:63"]
+        }
+      ]
+    },
+    {
+      "codigo": "HUM001",
+      "nome": "Filosofia Da Ciência E Da Tecnologia",
+      "creditos": 2,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "HUMA",
+          "enquadramento": "Presencial",
+          "vagas_total": 44,
+          "vagas_calouros": 0,
+          "reserva": "Sem Reserva",
+          "prioridade_cursos": [],
+          "horarios": [
+            {
+              "horario": "4M4",
+              "sala": "H105"
+            },
+            {
+              "horario": "4M5",
+              "sala": "H105"
+            }
+          ],
+          "professores": ["Frederico Lopes De Oliveira Diehl"],
+          "optativa_matrizes": [
+            "Matriz:84",
+            "Matriz:91",
+            "Matriz:89",
+            "Matriz:85",
+            "Matriz:87",
+            "Matriz:86",
+            "Matriz:88"
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "EA34C",
+      "nome": "Fisica Iii",
+      "creditos": 5,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "IF4A",
+          "enquadramento": "Presencial",
+          "vagas_total": 22,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Eng Ambiental"]],
+          "horarios": [
+            {
+              "horario": "2T2",
+              "sala": "H003"
+            },
+            {
+              "horario": "2T3",
+              "sala": "H003"
+            },
+            {
+              "horario": "3T1",
+              "sala": "D102"
+            },
+            {
+              "horario": "3T2",
+              "sala": "D102"
+            },
+            {
+              "horario": "3T3",
+              "sala": "D102"
+            }
+          ],
+          "professores": ["Wladimir Sergio Braga"],
+          "optativa_matrizes": []
+        }
+      ]
+    },
+    {
+      "codigo": "FS3X3",
+      "nome": "Física 3",
+      "creditos": 5,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "IDE",
+          "enquadramento": "Presencial",
+          "vagas_total": 22,
+          "vagas_calouros": 0,
+          "reserva": "Sem Reserva",
+          "prioridade_cursos": [],
+          "horarios": [
+            {
+              "horario": "2T1",
+              "sala": "F106"
+            },
+            {
+              "horario": "2T2",
+              "sala": "F106"
+            },
+            {
+              "horario": "2T3",
+              "sala": "F106"
+            },
+            {
+              "horario": "4T2",
+              "sala": "H003"
+            },
+            {
+              "horario": "4T3",
+              "sala": "H003"
+            }
+          ],
+          "professores": ["Sergio Henrique Fernandes"],
+          "optativa_matrizes": []
+        }
+      ]
+    },
+    {
+      "codigo": "NCM014",
+      "nome": "Física 3",
+      "creditos": 4,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "IG4A",
+          "enquadramento": "Presencial",
+          "vagas_total": 11,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Eng De Alimentos"]],
+          "horarios": [
+            {
+              "horario": "3T1",
+              "sala": "G103"
+            },
+            {
+              "horario": "3T2",
+              "sala": "G103"
+            },
+            {
+              "horario": "4T4",
+              "sala": "H003"
+            },
+            {
+              "horario": "4T5",
+              "sala": "H003"
+            }
+          ],
+          "professores": ["Sergio Henrique Fernandes"],
+          "optativa_matrizes": ["Matriz:84"]
+        },
+        {
+          "codigo": "IQ4A",
+          "enquadramento": "Presencial",
+          "vagas_total": 11,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Engenharia Química"]],
+          "horarios": [
+            {
+              "horario": "3T1",
+              "sala": "G103"
+            },
+            {
+              "horario": "3T2",
+              "sala": "G103"
+            },
+            {
+              "horario": "4T4",
+              "sala": "H003"
+            },
+            {
+              "horario": "4T5",
+              "sala": "H003"
+            }
+          ],
+          "professores": ["Sergio Henrique Fernandes"],
+          "optativa_matrizes": ["Matriz:84"]
+        }
+      ]
+    },
+    {
+      "codigo": "HUM002",
+      "nome": "Fundamentos Da Ética",
+      "creditos": 2,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "HUMA",
+          "enquadramento": "Presencial",
+          "vagas_total": 44,
+          "vagas_calouros": 0,
+          "reserva": "Sem Reserva",
+          "prioridade_cursos": [],
+          "horarios": [
+            {
+              "horario": "6N4",
+              "sala": "G101"
+            },
+            {
+              "horario": "6N5",
+              "sala": "G101"
+            }
+          ],
+          "professores": ["Frederico Lopes De Oliveira Diehl"],
+          "optativa_matrizes": [
+            "Matriz:84",
+            "Matriz:91",
+            "Matriz:85",
+            "Matriz:86",
+            "Matriz:88"
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "NCM008",
+      "nome": "Geometria Analítica",
+      "creditos": 3,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "ID1A",
+          "enquadramento": "Presencial",
+          "vagas_total": 48,
+          "vagas_calouros": 44,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Eng Civil"]],
+          "horarios": [
+            {
+              "horario": "2T1",
+              "sala": "F101"
+            },
+            {
+              "horario": "2T2",
+              "sala": "F101"
+            },
+            {
+              "horario": "2T3",
+              "sala": "F101"
+            }
+          ],
+          "professores": ["Priscila Amara Patricio De Melo"],
+          "optativa_matrizes": []
+        },
+        {
+          "codigo": "IF1A",
+          "enquadramento": "Presencial",
+          "vagas_total": 48,
+          "vagas_calouros": 44,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Eng Amb/Sanitária"]],
+          "horarios": [
+            {
+              "horario": "4M1",
+              "sala": "D108"
+            },
+            {
+              "horario": "4M2",
+              "sala": "D108"
+            },
+            {
+              "horario": "4M3",
+              "sala": "D108"
+            }
+          ],
+          "professores": ["Erika Patricia Dantas De Oliveira Guazzi"],
+          "optativa_matrizes": []
+        },
+        {
+          "codigo": "IG1A",
+          "enquadramento": "Presencial",
+          "vagas_total": 24,
+          "vagas_calouros": 22,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Eng De Alimentos"]],
+          "horarios": [
+            {
+              "horario": "5T1",
+              "sala": "G105"
+            },
+            {
+              "horario": "5T2",
+              "sala": "G105"
+            },
+            {
+              "horario": "5T3",
+              "sala": "G105"
+            }
+          ],
+          "professores": ["Erika Patricia Dantas De Oliveira Guazzi"],
+          "optativa_matrizes": []
+        },
+        {
+          "codigo": "IL1A",
+          "enquadramento": "Presencial",
+          "vagas_total": 48,
+          "vagas_calouros": 44,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Eng Eletrônica"]],
+          "horarios": [
+            {
+              "horario": "5N1",
+              "sala": "B102"
+            },
+            {
+              "horario": "5N2",
+              "sala": "B102"
+            },
+            {
+              "horario": "5N3",
+              "sala": "B102"
+            }
+          ],
+          "professores": ["Erika Patricia Dantas De Oliveira Guazzi"],
+          "optativa_matrizes": []
+        },
+        {
+          "codigo": "IQ1A",
+          "enquadramento": "Presencial",
+          "vagas_total": 24,
+          "vagas_calouros": 22,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Engenharia Química"]],
+          "horarios": [
+            {
+              "horario": "5T1",
+              "sala": "G105"
+            },
+            {
+              "horario": "5T2",
+              "sala": "G105"
+            },
+            {
+              "horario": "5T3",
+              "sala": "G105"
+            }
+          ],
+          "professores": ["Erika Patricia Dantas De Oliveira Guazzi"],
+          "optativa_matrizes": []
+        },
+        {
+          "codigo": "NQ1A",
+          "enquadramento": "Presencial",
+          "vagas_total": 48,
+          "vagas_calouros": 44,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Lic Química"]],
+          "horarios": [
+            {
+              "horario": "4N1",
+              "sala": "G104"
+            },
+            {
+              "horario": "4N2",
+              "sala": "G104"
+            },
+            {
+              "horario": "4N3",
+              "sala": "G104"
+            }
+          ],
+          "professores": ["Helio Vinicius Moreno Tozatti"],
+          "optativa_matrizes": []
+        }
+      ]
+    },
+    {
+      "codigo": "ALM33F",
+      "nome": "Gestão De Pessoas",
+      "creditos": 1,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "NA3A",
+          "enquadramento": "Presencial",
+          "vagas_total": 22,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Tecnol Alimentos"]],
+          "horarios": [
+            {
+              "horario": "6N4",
+              "sala": "F110"
+            },
+            {
+              "horario": "6N5",
+              "sala": "F110"
+            }
+          ],
+          "professores": ["Marcelo Guelbert"],
+          "optativa_matrizes": []
+        }
+      ]
+    },
+    {
+      "codigo": "NCM019",
+      "nome": "Gestão De Pessoas",
+      "creditos": 2,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "IG4A",
+          "enquadramento": "Presencial",
+          "vagas_total": 22,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Eng De Alimentos"]],
+          "horarios": [
+            {
+              "horario": "4T2",
+              "sala": "B103"
+            },
+            {
+              "horario": "4T3",
+              "sala": "B103"
+            }
+          ],
+          "professores": ["Tanatiana Ferreira Guelbert"],
+          "optativa_matrizes": ["Matriz:88", "Matriz:84"]
+        },
+        {
+          "codigo": "IQ4A",
+          "enquadramento": "Presencial",
+          "vagas_total": 22,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Engenharia Química"]],
+          "horarios": [
+            {
+              "horario": "4T2",
+              "sala": "B103"
+            },
+            {
+              "horario": "4T3",
+              "sala": "B103"
+            }
+          ],
+          "professores": ["Tanatiana Ferreira Guelbert"],
+          "optativa_matrizes": ["Matriz:88", "Matriz:84"]
+        }
+      ]
+    },
+    {
+      "codigo": "HUM003",
+      "nome": "História E Cultura Afro-Brasileira",
+      "creditos": 2,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "HUMA",
+          "enquadramento": "Presencial",
+          "vagas_total": 44,
+          "vagas_calouros": 0,
+          "reserva": "Sem Reserva",
+          "prioridade_cursos": [],
+          "horarios": [
+            {
+              "horario": "2N2",
+              "sala": "D104"
+            },
+            {
+              "horario": "2N3",
+              "sala": "D104"
+            }
+          ],
+          "professores": ["Alex Sandro De Medeiros"],
+          "optativa_matrizes": [
+            "Matriz:84",
+            "Matriz:91",
+            "Matriz:89",
+            "Matriz:85",
+            "Matriz:87",
+            "Matriz:86",
+            "Matriz:88"
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "OPT011",
+      "nome": "Implementação De Linguagens De Programação",
+      "creditos": 4,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "IC7A",
+          "enquadramento": "Presencial",
+          "vagas_total": 20,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Ciênc Computação"]],
+          "horarios": [
+            {
+              "horario": "3T2",
+              "sala": "E101"
+            },
+            {
+              "horario": "3T3",
+              "sala": "E101"
+            },
+            {
+              "horario": "5T4",
+              "sala": "D107"
+            },
+            {
+              "horario": "5T5",
+              "sala": "D107"
+            }
+          ],
+          "professores": ["Rogerio Aparecido Goncalves"],
+          "optativa_matrizes": ["Matriz:84"]
+        }
+      ]
+    },
+    {
+      "codigo": "BCC6003",
+      "nome": "Inteligência Computacional",
+      "creditos": 4,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "IC6A",
+          "enquadramento": "Presencial",
+          "vagas_total": 44,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Ciênc Computação"]],
+          "horarios": [
+            {
+              "horario": "2T2",
+              "sala": "E003"
+            },
+            {
+              "horario": "2T3",
+              "sala": "E003"
+            },
+            {
+              "horario": "6T2",
+              "sala": "D104"
+            },
+            {
+              "horario": "6T3",
+              "sala": "D104"
+            }
+          ],
+          "professores": ["Diego Bertolini Goncalves"],
+          "optativa_matrizes": []
+        }
+      ]
+    },
+    {
+      "codigo": "BCC3002",
+      "nome": "Interação Humano-Computador",
+      "creditos": 4,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "IC3A",
+          "enquadramento": "Presencial",
+          "vagas_total": 44,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Ciênc Computação"]],
+          "horarios": [
+            {
+              "horario": "4N2",
+              "sala": "E007"
+            },
+            {
+              "horario": "4N3",
+              "sala": "E007"
+            },
+            {
+              "horario": "6T2",
+              "sala": "D106"
+            },
+            {
+              "horario": "6T3",
+              "sala": "D106"
+            }
+          ],
+          "professores": ["Walter Takashi Nakamura"],
+          "optativa_matrizes": []
+        }
+      ]
+    },
+    {
+      "codigo": "BCC1001",
+      "nome": "Introdução À Programação",
+      "creditos": 4,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "IC1A",
+          "enquadramento": "Presencial",
+          "vagas_total": 23,
+          "vagas_calouros": 22,
+          "reserva": "Fechada",
+          "prioridade_cursos": [["Ciênc Computação"]],
+          "horarios": [
+            {
+              "horario": "4T4",
+              "sala": "D107"
+            },
+            {
+              "horario": "4T5",
+              "sala": "D107"
+            },
+            {
+              "horario": "5T2",
+              "sala": "E100"
+            },
+            {
+              "horario": "5T3",
+              "sala": "E100"
+            }
+          ],
+          "professores": ["Marco Aurelio Graciotto Silva"],
+          "optativa_matrizes": []
+        },
+        {
+          "codigo": "IC1B",
+          "enquadramento": "Presencial",
+          "vagas_total": 23,
+          "vagas_calouros": 22,
+          "reserva": "Fechada",
+          "prioridade_cursos": [["Ciênc Computação"]],
+          "horarios": [
+            {
+              "horario": "4T4",
+              "sala": "D107"
+            },
+            {
+              "horario": "4T5",
+              "sala": "D107"
+            },
+            {
+              "horario": "5T4",
+              "sala": "E100"
+            },
+            {
+              "horario": "5T5",
+              "sala": "E100"
+            }
+          ],
+          "professores": ["Marco Aurelio Graciotto Silva"],
+          "optativa_matrizes": []
+        }
+      ]
+    },
+    {
+      "codigo": "BCC4005",
+      "nome": "Metodologia De Pesquisa Em Computação",
+      "creditos": 4,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "IC4A",
+          "enquadramento": "Presencial",
+          "vagas_total": 44,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Ciênc Computação"]],
+          "horarios": [
+            {
+              "horario": "3T4",
+              "sala": "D104"
+            },
+            {
+              "horario": "3T5",
+              "sala": "D104"
+            },
+            {
+              "horario": "5T2",
+              "sala": "B001"
+            },
+            {
+              "horario": "5T3",
+              "sala": "B001"
+            }
+          ],
+          "professores": ["Joao Fabricio Filho"],
+          "optativa_matrizes": []
+        }
+      ]
+    },
+    {
+      "codigo": "NCM010",
+      "nome": "Pré-Cálculo",
+      "creditos": 3,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "IC1A",
+          "enquadramento": "Presencial",
+          "vagas_total": 48,
+          "vagas_calouros": 44,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Ciênc Computação"]],
+          "horarios": [
+            {
+              "horario": "6T1",
+              "sala": "D107"
+            },
+            {
+              "horario": "6T2",
+              "sala": "D107"
+            },
+            {
+              "horario": "6T3",
+              "sala": "D107"
+            }
+          ],
+          "professores": ["Lilian Caroline Xavier Candido Schiavini"],
+          "optativa_matrizes": []
+        },
+        {
+          "codigo": "ID1A",
+          "enquadramento": "Presencial",
+          "vagas_total": 48,
+          "vagas_calouros": 44,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Eng Civil"]],
+          "horarios": [
+            {
+              "horario": "3T3",
+              "sala": "F101"
+            },
+            {
+              "horario": "3T4",
+              "sala": "F101"
+            },
+            {
+              "horario": "3T5",
+              "sala": "F101"
+            }
+          ],
+          "professores": ["Thelma Pretel Brandao Vecchi"],
+          "optativa_matrizes": []
+        },
+        {
+          "codigo": "IF1A",
+          "enquadramento": "Presencial",
+          "vagas_total": 48,
+          "vagas_calouros": 44,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Eng Amb/Sanitária"]],
+          "horarios": [
+            {
+              "horario": "6M1",
+              "sala": "D108"
+            },
+            {
+              "horario": "6M2",
+              "sala": "D108"
+            },
+            {
+              "horario": "6M3",
+              "sala": "D108"
+            }
+          ],
+          "professores": ["Thelma Pretel Brandao Vecchi"],
+          "optativa_matrizes": []
+        },
+        {
+          "codigo": "IG1A",
+          "enquadramento": "Presencial",
+          "vagas_total": 24,
+          "vagas_calouros": 22,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Eng De Alimentos"]],
+          "horarios": [
+            {
+              "horario": "2T1",
+              "sala": "G105"
+            },
+            {
+              "horario": "2T2",
+              "sala": "G105"
+            },
+            {
+              "horario": "2T3",
+              "sala": "G105"
+            }
+          ],
+          "professores": ["Thelma Pretel Brandao Vecchi"],
+          "optativa_matrizes": []
+        },
+        {
+          "codigo": "IL1A",
+          "enquadramento": "Presencial",
+          "vagas_total": 48,
+          "vagas_calouros": 44,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Eng Eletrônica"]],
+          "horarios": [
+            {
+              "horario": "2N1",
+              "sala": "B102"
+            },
+            {
+              "horario": "2N2",
+              "sala": "B102"
+            },
+            {
+              "horario": "2N3",
+              "sala": "B102"
+            }
+          ],
+          "professores": ["Thelma Pretel Brandao Vecchi"],
+          "optativa_matrizes": []
+        },
+        {
+          "codigo": "IQ1A",
+          "enquadramento": "Presencial",
+          "vagas_total": 24,
+          "vagas_calouros": 22,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Engenharia Química"]],
+          "horarios": [
+            {
+              "horario": "2T1",
+              "sala": "G105"
+            },
+            {
+              "horario": "2T2",
+              "sala": "G105"
+            },
+            {
+              "horario": "2T3",
+              "sala": "G105"
+            }
+          ],
+          "professores": ["Thelma Pretel Brandao Vecchi"],
+          "optativa_matrizes": []
+        },
+        {
+          "codigo": "NQ1A",
+          "enquadramento": "Presencial",
+          "vagas_total": 46,
+          "vagas_calouros": 44,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Lic Química"]],
+          "horarios": [
+            {
+              "horario": "2N1",
+              "sala": "G104"
+            },
+            {
+              "horario": "2N2",
+              "sala": "G104"
+            },
+            {
+              "horario": "2N3",
+              "sala": "G104"
+            }
+          ],
+          "professores": ["Claudete Cargnin"],
+          "optativa_matrizes": []
+        }
+      ]
+    },
+    {
+      "codigo": "EA35C",
+      "nome": "Probabilidade E Estatística",
+      "creditos": 4,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "IF5A",
+          "enquadramento": "Presencial",
+          "vagas_total": 44,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Eng Ambiental"]],
+          "horarios": [
+            {
+              "horario": "2M4",
+              "sala": "B107"
+            },
+            {
+              "horario": "2M5",
+              "sala": "B107"
+            },
+            {
+              "horario": "5M2",
+              "sala": "D105"
+            },
+            {
+              "horario": "5M3",
+              "sala": "D105"
+            }
+          ],
+          "professores": ["Diogo Heron Macowski"],
+          "optativa_matrizes": []
+        }
+      ]
+    },
+    {
+      "codigo": "NCM011",
+      "nome": "Probabilidade E Estatística",
+      "creditos": 4,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "IC3A",
+          "enquadramento": "Presencial",
+          "vagas_total": 44,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Ciênc Computação"]],
+          "horarios": [
+            {
+              "horario": "2T5",
+              "sala": "D106"
+            },
+            {
+              "horario": "2T6",
+              "sala": "D106"
+            },
+            {
+              "horario": "4T2",
+              "sala": "D106"
+            },
+            {
+              "horario": "4T3",
+              "sala": "D106"
+            }
+          ],
+          "professores": ["Wyrllen Everson De Souza"],
+          "optativa_matrizes": []
+        },
+        {
+          "codigo": "ID3A",
+          "enquadramento": "Presencial",
+          "vagas_total": 44,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Eng Civil"]],
+          "horarios": [
+            {
+              "horario": "2T3",
+              "sala": "B105"
+            },
+            {
+              "horario": "2T4",
+              "sala": "B105"
+            },
+            {
+              "horario": "4T2",
+              "sala": "G104"
+            },
+            {
+              "horario": "4T3",
+              "sala": "G104"
+            }
+          ],
+          "professores": ["Lilian Caroline Xavier Candido Schiavini"],
+          "optativa_matrizes": []
+        },
+        {
+          "codigo": "IG4A",
+          "enquadramento": "Presencial",
+          "vagas_total": 22,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Eng De Alimentos"]],
+          "horarios": [
+            {
+              "horario": "2T3",
+              "sala": "D103"
+            },
+            {
+              "horario": "2T4",
+              "sala": "D103"
+            },
+            {
+              "horario": "5M4",
+              "sala": "D104"
+            },
+            {
+              "horario": "5M5",
+              "sala": "D104"
+            }
+          ],
+          "professores": ["Diogo Heron Macowski"],
+          "optativa_matrizes": []
+        },
+        {
+          "codigo": "IQ4A",
+          "enquadramento": "Presencial",
+          "vagas_total": 22,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Engenharia Química"]],
+          "horarios": [
+            {
+              "horario": "2T3",
+              "sala": "D103"
+            },
+            {
+              "horario": "2T4",
+              "sala": "D103"
+            },
+            {
+              "horario": "5M4",
+              "sala": "D104"
+            },
+            {
+              "horario": "5M5",
+              "sala": "D104"
+            }
+          ],
+          "professores": ["Diogo Heron Macowski"],
+          "optativa_matrizes": []
+        }
+      ]
+    },
+    {
+      "codigo": "BCC4003",
+      "nome": "Processamento De Imagens",
+      "creditos": 4,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "ICE",
+          "enquadramento": "Presencial",
+          "vagas_total": 44,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Ciênc Computação"]],
+          "horarios": [
+            {
+              "horario": "3T4",
+              "sala": "D103"
+            },
+            {
+              "horario": "3T5",
+              "sala": "D103"
+            },
+            {
+              "horario": "6T4",
+              "sala": "E003"
+            },
+            {
+              "horario": "6T5",
+              "sala": "E003"
+            }
+          ],
+          "professores": ["Aretha Barbosa Alencar"],
+          "optativa_matrizes": []
+        },
+        {
+          "codigo": "IC4A",
+          "enquadramento": "Presencial",
+          "vagas_total": 44,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Ciênc Computação"]],
+          "horarios": [
+            {
+              "horario": "2T2",
+              "sala": "D104"
+            },
+            {
+              "horario": "2T3",
+              "sala": "D104"
+            },
+            {
+              "horario": "3T2",
+              "sala": "E003"
+            },
+            {
+              "horario": "3T3",
+              "sala": "E003"
+            }
+          ],
+          "professores": ["Aretha Barbosa Alencar"],
+          "optativa_matrizes": []
+        }
+      ]
+    },
+    {
+      "codigo": "BCC5005",
+      "nome": "Projeto Integrador",
+      "creditos": 4,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "IC5A",
+          "enquadramento": "Presencial",
+          "vagas_total": 44,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Ciênc Computação"]],
+          "horarios": [
+            {
+              "horario": "4N2",
+              "sala": "E003"
+            },
+            {
+              "horario": "4N3",
+              "sala": "E003"
+            },
+            {
+              "horario": "6T2",
+              "sala": "D105"
+            },
+            {
+              "horario": "6T3",
+              "sala": "D105"
+            }
+          ],
+          "professores": ["Rodrigo Hubner"],
+          "optativa_matrizes": []
+        }
+      ]
+    },
+    {
+      "codigo": "OPT019",
+      "nome": "Qualidade De Software",
+      "creditos": 4,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "IC6A",
+          "enquadramento": "Presencial",
+          "vagas_total": 20,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Ciênc Computação"]],
+          "horarios": [
+            {
+              "horario": "3N2",
+              "sala": "E101"
+            },
+            {
+              "horario": "3N3",
+              "sala": "E101"
+            },
+            {
+              "horario": "5N4",
+              "sala": "E101"
+            },
+            {
+              "horario": "5N5",
+              "sala": "E101"
+            }
+          ],
+          "professores": ["Marco Aurelio Graciotto Silva"],
+          "optativa_matrizes": ["Matriz:84"]
+        }
+      ]
+    },
+    {
+      "codigo": "OPT020",
+      "nome": "Reconhecimento De Padrões",
+      "creditos": 4,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "IC7A",
+          "enquadramento": "Presencial",
+          "vagas_total": 26,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Ciênc Computação"]],
+          "horarios": [
+            {
+              "horario": "2T2",
+              "sala": "E100"
+            },
+            {
+              "horario": "2T3",
+              "sala": "E100"
+            },
+            {
+              "horario": "4T4",
+              "sala": "E100"
+            },
+            {
+              "horario": "4T5",
+              "sala": "E100"
+            }
+          ],
+          "professores": ["Rodrigo Hubner"],
+          "optativa_matrizes": ["Matriz:84"]
+        }
+      ]
+    },
+    {
+      "codigo": "BCC3003",
+      "nome": "Redes De Computadores",
+      "creditos": 4,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "IC3A",
+          "enquadramento": "Presencial",
+          "vagas_total": 44,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Ciênc Computação"]],
+          "horarios": [
+            {
+              "horario": "3N2",
+              "sala": "E007"
+            },
+            {
+              "horario": "3N3",
+              "sala": "E007"
+            },
+            {
+              "horario": "5T2",
+              "sala": "E007"
+            },
+            {
+              "horario": "5T3",
+              "sala": "E007"
+            }
+          ],
+          "professores": ["Luiz Arthur Feitosa Dos Santos"],
+          "optativa_matrizes": []
+        }
+      ]
+    },
+    {
+      "codigo": "OPT021",
+      "nome": "Sistemas Distribuídos",
+      "creditos": 4,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "IC7A",
+          "enquadramento": "Presencial",
+          "vagas_total": 26,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Ciênc Computação"]],
+          "horarios": [
+            {
+              "horario": "5T2",
+              "sala": "E101"
+            },
+            {
+              "horario": "5T3",
+              "sala": "E101"
+            },
+            {
+              "horario": "6T2",
+              "sala": "E101"
+            },
+            {
+              "horario": "6T3",
+              "sala": "E101"
+            }
+          ],
+          "professores": ["Rodrigo Campiolo"],
+          "optativa_matrizes": ["Matriz:84"]
+        }
+      ]
+    },
+    {
+      "codigo": "BCC5002",
+      "nome": "Sistemas Operacionais",
+      "creditos": 4,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "IC5A",
+          "enquadramento": "Presencial",
+          "vagas_total": 28,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Ciênc Computação"]],
+          "horarios": [
+            {
+              "horario": "3N2",
+              "sala": "E105"
+            },
+            {
+              "horario": "3N3",
+              "sala": "E105"
+            },
+            {
+              "horario": "6T4",
+              "sala": "E105"
+            },
+            {
+              "horario": "6T5",
+              "sala": "E105"
+            }
+          ],
+          "professores": ["Rodrigo Campiolo"],
+          "optativa_matrizes": []
+        }
+      ]
+    },
+    {
+      "codigo": "HUM012",
+      "nome": "Tecnologia E Sociedade",
+      "creditos": 2,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "HUMA",
+          "enquadramento": "Presencial",
+          "vagas_total": 44,
+          "vagas_calouros": 0,
+          "reserva": "Sem Reserva",
+          "prioridade_cursos": [],
+          "horarios": [
+            {
+              "horario": "6M4",
+              "sala": "B107"
+            },
+            {
+              "horario": "6M5",
+              "sala": "B107"
+            }
+          ],
+          "professores": ["Frederico Lopes De Oliveira Diehl"],
+          "optativa_matrizes": [
+            "Matriz:84",
+            "Matriz:91",
+            "Matriz:89",
+            "Matriz:85",
+            "Matriz:86",
+            "Matriz:88",
+            "Matriz:87"
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "BCC5003",
+      "nome": "Teoria Da Computação",
+      "creditos": 4,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "IC5A",
+          "enquadramento": "Presencial",
+          "vagas_total": 28,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Ciênc Computação"]],
+          "horarios": [
+            {
+              "horario": "4T4",
+              "sala": "E105"
+            },
+            {
+              "horario": "4T5",
+              "sala": "E105"
+            },
+            {
+              "horario": "5T2",
+              "sala": "D107"
+            },
+            {
+              "horario": "5T3",
+              "sala": "D107"
+            }
+          ],
+          "professores": ["Rogerio Aparecido Goncalves"],
+          "optativa_matrizes": []
+        }
+      ]
+    },
+    {
+      "codigo": "OPT024",
+      "nome": "Teste De Software",
+      "creditos": 4,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "IC8A",
+          "enquadramento": "Presencial",
+          "vagas_total": 20,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Ciênc Computação"]],
+          "horarios": [
+            {
+              "horario": "2T4",
+              "sala": "E104"
+            },
+            {
+              "horario": "2T5",
+              "sala": "E104"
+            },
+            {
+              "horario": "3T4",
+              "sala": "E104"
+            },
+            {
+              "horario": "3T5",
+              "sala": "E104"
+            }
+          ],
+          "professores": ["Reginaldo Re"],
+          "optativa_matrizes": ["Matriz:84"]
+        }
+      ]
+    },
+    {
+      "codigo": "LQM35A",
+      "nome": "Tópicos De Física 2",
+      "creditos": 5,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "NQ5A",
+          "enquadramento": "Presencial",
+          "vagas_total": 44,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Lic Química"]],
+          "horarios": [
+            {
+              "horario": "4N1",
+              "sala": "G103"
+            },
+            {
+              "horario": "4N2",
+              "sala": "G103"
+            },
+            {
+              "horario": "4N3",
+              "sala": "G103"
+            },
+            {
+              "horario": "6N4",
+              "sala": "H004"
+            },
+            {
+              "horario": "6N5",
+              "sala": "H004"
+            }
+          ],
+          "professores": ["Ivan Marcelo Laczkowski"],
+          "optativa_matrizes": []
+        }
+      ]
+    },
+    {
+      "codigo": "OPT101",
+      "nome": "Tópicos Especiais Em Interfaces Computacionais",
+      "creditos": 4,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "IC7A",
+          "enquadramento": "Presencial",
+          "vagas_total": 20,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Ciênc Computação"]],
+          "horarios": [
+            {
+              "horario": "2N4",
+              "sala": "E104"
+            },
+            {
+              "horario": "2N5",
+              "sala": "E104"
+            },
+            {
+              "horario": "4N2",
+              "sala": "E104"
+            },
+            {
+              "horario": "4N3",
+              "sala": "E104"
+            }
+          ],
+          "professores": ["Paulo Henrique Sabo"],
+          "optativa_matrizes": ["Matriz:84"]
+        }
+      ]
+    },
+    {
+      "codigo": "BCC7001",
+      "nome": "Trabalho De Conclusão De Curso 1",
+      "creditos": 0,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "IC7A",
+          "enquadramento": "Presencial",
+          "vagas_total": 45,
+          "vagas_calouros": 0,
+          "reserva": "Fechada",
+          "prioridade_cursos": [["Ciênc Computação"]],
+          "horarios": [],
+          "professores": ["Luiz Arthur Feitosa Dos Santos"],
+          "optativa_matrizes": []
+        }
+      ]
+    },
+    {
+      "codigo": "BCC8001",
+      "nome": "Trabalho De Conclusão De Curso 2",
+      "creditos": 0,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "IC8A",
+          "enquadramento": "Presencial",
+          "vagas_total": 44,
+          "vagas_calouros": 0,
+          "reserva": "Fechada",
+          "prioridade_cursos": [["Ciênc Computação"]],
+          "horarios": [],
+          "professores": ["Luiz Arthur Feitosa Dos Santos"],
+          "optativa_matrizes": []
+        }
+      ]
+    },
+    {
+      "codigo": "NCM020",
+      "nome": "Viabilidade Econômica E Financeira De Projetos",
+      "creditos": 2,
+      "creditos_assincronos": null,
+      "turmas": [
+        {
+          "codigo": "IG7A",
+          "enquadramento": "Presencial",
+          "vagas_total": 22,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Eng De Alimentos"]],
+          "horarios": [
+            {
+              "horario": "4T2",
+              "sala": "G103"
+            },
+            {
+              "horario": "4T3",
+              "sala": "G103"
+            }
+          ],
+          "professores": ["Genilson Valotto Patuzzo"],
+          "optativa_matrizes": ["Matriz:84"]
+        },
+        {
+          "codigo": "IQ7A",
+          "enquadramento": "Presencial",
+          "vagas_total": 22,
+          "vagas_calouros": 0,
+          "reserva": "Aberta",
+          "prioridade_cursos": [["Engenharia Química"]],
+          "horarios": [
+            {
+              "horario": "4T2",
+              "sala": "G103"
+            },
+            {
+              "horario": "4T3",
+              "sala": "G103"
+            }
+          ],
+          "professores": ["Genilson Valotto Patuzzo"],
+          "optativa_matrizes": ["Matriz:84"]
+        }
+      ]
+    }
+  ]
+}
